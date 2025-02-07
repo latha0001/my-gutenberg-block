@@ -23,7 +23,7 @@ A simple WordPress plugin that creates a custom Gutenberg block. This block can 
 Clone the project to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/latha0001/my-gutenberg-block
 cd my-gutenberg-block
 ```
 
